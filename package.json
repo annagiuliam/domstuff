@@ -1,0 +1,24 @@
+{
+  "name": "domstuff",
+  "version": "1.0.0",
+  "description": "different dom functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annagiuliam/domstuff.git"
+  },
+  "keywords": [
+    "dom",
+    "functions",
+    "javascript"
+  ],
+  "author": "Anna Giulia Musso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annagiuliam/domstuff/issues"
+  },
+  "homepage": "https://github.com/annagiuliam/domstuff#readme"
+}
